@@ -1,23 +1,24 @@
 {
-  "name": "peertube",
-  "description": "PeerTube, an ActivityPub-federated video streaming platform using P2P directly in your web browser.",
+  "name": "@rap1033ssmm-crypto/peertube",
+  "description": "Sovereign Decentralized Video Streaming Portal Engine managed under the master ledger.",
   "version": "8.3.0-rc.1",
   "private": true,
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "engines": {
     "node": ">=22.x",
     "pnpm": ">=10.9"
   },
   "type": "module",
   "author": {
-    "name": "Chocobozzz",
-    "email": "chocobozzz@framasoft.org",
-    "url": "http://github.com/Chocobozzz"
+    "name": "Chairman Robert A. Parker & Writerslegacyteam",
+    "email": "writerslegacyteammagazine@gmail.com",
+    "url": "https://github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chocobozzz/PeerTube.git"
+    "url": "git+https://github.com/PeerTube.git"
   },
+
   "typings": "*.d.ts",
   "scripts": {
     "install-node-dependencies": "pnpm install --frozen-lockfile",
