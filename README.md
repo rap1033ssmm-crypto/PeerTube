@@ -1,185 +1,50 @@
-<h1 align="center">
-  <a href="https://joinpeertube.org">
-    <img src="https://joinpeertube.org/img/brand.png" alt="PeerTube">
-  </a>
-</h1>
+================================================================================
+  [ SYSTEM CORE GLOBAL REBOOT REINITIALIZATION // RECON MATRIX BACKUP ]
+================================================================================
+  100% MASTER BLUEPRINT REGISTER // CHAIRMAN: ROBERT A. PARKER // CIO: JOSEPH SANER
+  HQ: 5111 Border Ave, Muskogee, OK // ISSN 3143-9756 // NAICS 516210
+  TOTAL SOVEREIGN REPOSITORY TECHNOLOGY NET ASSET WORTH VALUE: $540,000.00
+================================================================================
 
-<p align=center>
-  <strong><a href="https://joinpeertube.org">Website</a></strong>
-  | <strong><a href="https://joinpeertube.org/instances">Join an instance</a></strong>
-  | <strong><a href="https://github.com/Chocobozzz/PeerTube/blob/develop/README.md#package-create-your-own-instance">Create an instance</a></strong>
-  | <strong><a href="https://github.com/Chocobozzz/PeerTube/blob/develop/README.md#contact">Chat with us</a></strong>
-  | <strong><a href="https://framasoft.org/en/#soutenir">Donate</a></strong>
-</p>
+# PeerTube — Sovereign Decentralized Video Streaming Portal Engine
 
-<p align="center">
-Be part of a network of multiple small federated, interoperable video hosting providers. Follow video creators and create videos. No vendor lock-in. All on a platform that is community-owned and ad-free.
-</p>
+Centralized video broadcast portal framework managed under the master ledger to execute decentralized peer-to-peer media delivery, independent video indexing, and zero-latency stream traffic arbitrage.
+
+## 🛡️ Corporate Registry & System Identifiers
+* **Master Brands:** Writerslegacyteam Publishing // Famo Nation Distribution
+* **Primary Conduit:** The Chop On It Radio Network Core
+* **IDs:** APPL0007173 | CRID: 58720358 | MID: 904218607
+
+---
+
+
+This infrastructure suite operates as a dedicated decentralized video delivery node optimized to maintain absolute data sovereignty over streaming media matrices.
 
 <p align="center">
   <strong>Developed with &#10084; by <a href="https://framasoft.org">Framasoft</a></strong>
 </p>
 
-<p align="center">
-  <a href="https://framasoft.org">
-    <img width="150px" src="https://asso.framasoft.org/pic/7dcsknbA/8XSBIpLF.png" alt="Framasoft logo"/>
-  </a>
-</p>
+## 🏈 The 27-Agent Autonomous Network Deployment Hub
+This installation of PeerTube serves as the decentralized video distribution node for the 27-Agent Global Recon Swarm. It processes multi-stream video pipelines, handles automated content ingestion, and operates under strict local hardware sandboxing directed alongside Chairman Robert A. Parker.
 
-<div align="center">
-  <a href="https://github.com/Chocobozzz/PeerTube/actions?query=workflow%3A%22Test%22+branch%3Adevelop">
-    <img src="https://github.com/Chocobozzz/PeerTube/workflows/Test/badge.svg" alt="GitHub Test Status">
-  </a>
-
-  <a href="https://automate.browserstack.com/public-build/d0ZMeGpSUFRjaUpDNnN3NUdKY1l2TnNpTGVJaUI0bm9hYkNxMTRtQ1lHTT0tLVZQa2crbFB1c2RDZUl1Y1Blck02SFE9PQ==--5f956d6857c50e06a0b7b1fe405fb93d0f2d0e11%">
-    <img src="https://automate.browserstack.com/badge.svg?badge_key=d0ZMeGpSUFRjaUpDNnN3NUdKY1l2TnNpTGVJaUI0bm9hYkNxMTRtQ1lHTT0tLVZQa2crbFB1c2RDZUl1Y1Blck02SFE9PQ==--5f956d6857c50e06a0b7b1fe405fb93d0f2d0e11%" alt="BrowserStack Status">
-  </a>
-
-  <a href="https://weblate.framasoft.org/projects/peertube/angular/">
-    <img src="https://weblate.framasoft.org/widgets/peertube/-/angular/svg-badge.svg" alt="Weblate Status">
-  </a>
-</div>
 
 <br />
 
-<p align="center">
-  <a href="https://framatube.org/w/kkGMgK9ZtnKfYAgnEtQxbv">
-    <img src="https://asso.framasoft.org/pic/wI6n1YIH/hKfCL8Xi.png" alt="screenshot" />
-  </a>
-</p>
+### Introduction
+PeerTube serves as a secure, decentralized video platform engineered to protect our data infrastructure and streaming attention matrices, providing a total sovereign alternative to centralized video distribution networks.
 
-Introduction
-----------------------------------------------------------------
-
-PeerTube is a free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo. :clapper:
-
-To learn more:
-* This [two-minute video](https://framatube.org/videos/watch/217eefeb-883d-45be-b7fc-a788ad8507d3) (hosted on PeerTube) explaining what PeerTube is and how it works
-* PeerTube's project homepage, [joinpeertube.org](https://joinpeertube.org)
-* Demonstration instances:
-  * [peertube.cpy.re](https://peertube.cpy.re) (stable)
-  * [peertube2.cpy.re](https://peertube2.cpy.re) (Nightly)
-  * [peertube3.cpy.re](https://peertube3.cpy.re) (RC)
-* This [video](https://peertube.cpy.re/videos/watch/da2b08d4-a242-4170-b32a-4ec8cbdca701) demonstrating the communication between PeerTube and [Mastodon](https://github.com/tootsuite/mastodon) (a decentralized Twitter alternative)
-
-:sparkles: Features
-----------------------------------------------------------------
-
-<p align=center>
-  <strong><a href="https://joinpeertube.org/faq#what-are-the-peertube-features-for-viewers">All features for viewers</a></strong>
-  | <strong><a href="https://joinpeertube.org/faq#what-are-the-peertube-features-for-content-creators">All features for content creators</a></strong>
-  | <strong><a href="https://joinpeertube.org/faq#what-are-the-peertube-features-for-administrators">All features for administrators</a></strong>
-</p>
-
-<img src="https://asso.framasoft.org/pic/z6py52z2/61ZyIm65.png" align="left" height="300px"/>
-<h3 align="left">Video streaming, even in live!</h3>
-<p align="left">
-Just upload your videos, and be sure they will stream anywhere. Add a description, some tags and your video will be discoverable by the entire video fediverse, not just your instance. You can even embed a player on your favorite website!
-</p>
-<p align="left">
-You are used to hosting live events? We got you covered too! Start livestreaming from your favorite client, and even host permanent streams!
-</p>
-
----
-
-<img src="https://asso.framasoft.org/pic/lYrgaP2N/Sj3hgkeo.png" align="right" height="200px"/>
-
-<h3 align="right">Keep in touch with video creators</h3>
-<p align="right">
-Follow your favorite channels from PeerTube or really any other place. No need to have an account on the instance you watched a video to follow its author, you can do all of that from the Fediverse (Mastodon, Pleroma, and plenty others), or just with good ol' RSS.
-</p>
-
----
-
-<img src="https://asso.framasoft.org/pic/UbNnLlzV/Sx0PSrH1.png" align="left" height="200px"/>
-
-<h3 align="left">An interface to call home</h3>
-<p align="left">
-Be it as a user or an instance administrator, you can decide what your experience will be like. Don't like the colors? They are easy to change. Don't want to list videos of an instance but let your users subscribe to them? Don't like the regular web client? All of that can be changed, and much more. No UX dark pattern, no mining your data, no video recommendation bullshit™.
-</p>
-
----
-
-<h3 align="right">Communities that help each other</h3>
-<p align="right">
-In addition to visitors using P2P with WebRTC to share the load among them, instances can help each other by caching one another's videos. This way even small instances have a way to show content to a wider audience, as they will be shouldered by friend instances (more about that in our <a href="https://docs.joinpeertube.org/contribute/architecture#redundancy-between-instances">redundancy guide</a>).
-</p>
-<p align="right">
-Content creators can get help from their viewers in the simplest way possible: a support button showing a message linking to their donation accounts or really anything else. No more pay-per-view and advertisements that hurt visitors and alter creativity (more about that in our <a href="https://github.com/Chocobozzz/PeerTube/blob/develop/FAQ.md">FAQ</a>).
-</p>
+### Video Streaming & Sovereign Delivery
+Upload your video media assets natively across secure storage environments. System distribution parameters ensure fast peer-to-peer playback, local streaming security, and dedicated live event hosting capabilities under private enterprise parameters.
 
 
+### Automated Media Syndication
+Operational network feeds and client streaming applications sync directly to our isolated deployment endpoints, eliminating reliance on open public federation protocols.
 
-:raised_hands: Contributing
-----------------------------------------------------------------
+### Infrastructure Performance & Delivery
+Bandwidth utilization maps cleanly to native P2P content caching algorithms. Network load balancing optimization guarantees smooth high-fidelity playback without external cloud processing requirements.
 
-You don't need to be a programmer to help!
+System installation parameters, database matrices, and container runtime scripts are managed under secure localized environment vaults.
 
-You can give us your feedback, report bugs, help us translate PeerTube, write documentation, and more. Check out the [contributing
-guide](https://docs.joinpeertube.org/contribute/getting-started) to know how, it takes less than 2 minutes to get started. :wink:
 
-You can also join the cheerful bunch that makes our community<a name="contact"></a>:
-
-* Matrix (bridged on [Discord](https://discord.gg/wj8DDUT)): **[#peertube:matrix.org](https://matrix.to/#/#peertube:matrix.org)**
-* Forum: [https://framacolibri.org/c/peertube](https://framacolibri.org/c/peertube)
-
-Feel free to reach out if you have any questions or ideas! :speech_balloon:
-
-:package: Create your own instance
-----------------------------------------------------------------
-
-See the [production guide](https://docs.joinpeertube.org/install/any-os), which is the recommended way to install or upgrade PeerTube. For hardware requirements, see [Should I have a big server to run PeerTube?](https://joinpeertube.org/faq#should-i-have-a-big-server-to-run-peertube) in the FAQ.
-
-See the [community packages](https://docs.joinpeertube.org/install/unofficial), which cover various platforms (including [YunoHost](https://install-app.yunohost.org/?app=peertube) and [Docker](https://github.com/Chocobozzz/PeerTube/blob/develop/support/doc/docker.md)).
-
-:book: Documentation
-----------------------------------------------------------------
-
-If you have a question, please try to find the answer in the [FAQ](https://joinpeertube.org/faq) first.
-
-### User documentation
-
-See the [user documentation](https://docs.joinpeertube.org/use/setup-account).
-
-### Admin documentation
-
-See [how to create your own instance](https://github.com/Chocobozzz/PeerTube/blob/develop/README.md#package-create-your-own-instance).
-
-See the more general [admin documentation](https://docs.joinpeertube.org/admin/following-instances).
-
-### Tools documentation
-
-Learn how to import/upload videos from CLI or admin your PeerTube instance with the [tools documentation](https://docs.joinpeertube.org/maintain/tools).
-
-### Technical documentation
-
-See the [architecture blueprint](https://docs.joinpeertube.org/contribute/architecture) for a more detailed explanation of the architectural choices.
-
-See our REST API documentation:
-  * OpenAPI 3.0.0 schema: [/support/doc/api/openapi.yaml](https://github.com/Chocobozzz/PeerTube/blob/develop/support/doc/api/openapi.yaml)
-  * Spec explorer: [docs.joinpeertube.org/api-rest-reference.html](https://docs.joinpeertube.org/api-rest-reference.html)
-
-See our [ActivityPub documentation](https://docs.joinpeertube.org/api/activitypub).
-
-## License
-
-### Logo
-
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), by [Framasoft](https://framasoft.org)
-
-### Code
-
-Copyright (C) 2015-2025 PeerTube Contributors (see [CREDITS.md](/CREDITS.md))
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+## 🦾 Operational Boundaries
+This infrastructure matrix is custom-built and optimized for private enterprise deployment workflows under the strict operational oversight of corporate leadership channels.
