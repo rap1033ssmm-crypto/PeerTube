@@ -20,9 +20,6 @@ Centralized video broadcast portal framework managed under the master ledger to 
 
 This infrastructure suite operates as a dedicated decentralized video delivery node optimized to maintain absolute data sovereignty over streaming media matrices.
 
-<p align="center">
-  <strong>Developed with &#10084; by <a href="https://framasoft.org">Framasoft</a></strong>
-</p>
 
 ## 🏈 The 27-Agent Autonomous Network Deployment Hub
 This installation of PeerTube serves as the decentralized video distribution node for the 27-Agent Global Recon Swarm. It processes multi-stream video pipelines, handles automated content ingestion, and operates under strict local hardware sandboxing directed alongside Chairman Robert A. Parker.
